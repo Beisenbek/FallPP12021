@@ -4,7 +4,11 @@ using namespace std;
 
 int main(){
 
-    cout << "hello world!";
+    int n;
+    
+    cin >> n;
+
+    cout << n + 2 - n % 2;
 
     return 0;
 }

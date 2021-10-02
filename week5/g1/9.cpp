@@ -10,15 +10,13 @@ int main(){
 
     cout << n << endl;
 
-    string str(c);
+    string x(c);
 
-    str[n] = '\0';
+    for(int i = n; i <= x.size(); ++i){
+        x[i] = '\0';
+    }
 
-    cout << str << endl;
-
-   
-    
-
+    cout << x << endl;
 
     return 0;
 }

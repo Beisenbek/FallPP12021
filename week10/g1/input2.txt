@@ -1,0 +1,6 @@
+mouse +10
+keyboard +10
+printer -4
+printer +10
+printer -5
+end 0

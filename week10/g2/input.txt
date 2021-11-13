@@ -1,0 +1,6 @@
+keyboard +10
+keyboard -50
+mouse +10
+mouse -2
+mouse -8
+mouse -1
